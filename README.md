@@ -12,7 +12,13 @@ paradigm, providing a stand-alone development environment and hiding much of the
 1. **Email:** admin@localhost.local
 2. **Password:** admin
 
+## Recommended tools and technology 
 
+1. Database : mysql
+2. Design : Bootstrap
+3. JS : JQuery
+4. Grails Version: 3.3.8
+5. Grails security for user authenticatoin 
 <br/><br/>
 
 ## The Project Name is User Portal
